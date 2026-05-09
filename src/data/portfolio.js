@@ -3,7 +3,7 @@ export const personalInfo = {
   title: "AI Engineer & Cybersecurity Enthusiast",
   tagline: "Building Intelligent Systems. Securing Digital Futures.",
   description:
-    "AI & Data Science engineer with hands-on experience building ML pipelines, fraud detection systems, and cybersecurity tools. Passionate about the intersection of artificial intelligence and security. I turn complex problems into elegant, data-driven solutions.",
+    "Computer Science engineer specialising in Cybersecurity, with hands-on experience building ML pipelines, fraud detection systems, and cybersecurity tools. Passionate about the intersection of artificial intelligence and security. I turn complex problems into elegant, data-driven solutions.",
   email: "swasan2020@gmail.com",
   phone: "+91 8939791399",
   github: "https://github.com/swathi5678",
@@ -12,7 +12,7 @@ export const personalInfo = {
   twitter: "https://twitter.com/swathi5678",
   resume: "/resume.pdf",
   location: "Chennai, India",
-  college: "SRM Easwari College of Engineering",
+  college: "SRM Easwari College of Engineering — B.E. CSE (Cybersecurity)",
   available: true,
 };
 
@@ -182,7 +182,7 @@ export const experience = [
       "Solved 300+ LeetCode problems across arrays, graphs, DP, and trees",
       "Strong foundation in Data Structures, Algorithms, and Computer Networks",
       "Organized and assisted in conducting Department Symposium at SRM Easwari",
-      "B.E. in Artificial Intelligence & Data Science at SRM Easwari College of Engineering",
+      "B.E. in Computer Science Engineering with Specialisation in Cybersecurity at SRM Easwari College of Engineering",
     ],
   },
 ];
